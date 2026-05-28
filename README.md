@@ -1,0 +1,1 @@
+Here, we applied the Elbow Method using K-Means clustering to determine the optimal number of customer groups. We trained models with K values from 1 to 10 and plotted the inertia values. The graph helps us identify the best number of clusters by locating the point where the decrease in inertia starts to slow down, which is known as the elbow point
